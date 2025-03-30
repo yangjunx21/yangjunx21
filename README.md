@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I am Junxiao Yang, an undergraduate student from Tsinghua University.
 
-[[![Anurag's GitHub stats]([https://github-readme-stats-6yxwixh3d-junxiao-yangs-projects.vercel.app/api?username=yangjunx21)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats-two-zeta-86.vercel.app/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 🔭 I’m currently working on LLM safety and alignment
