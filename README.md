@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Junxiao Yang, an undergraduate student from Tsinghua University.
+I'm Junxiao Yang, a first-year Phd student from Tsinghua University.
 
-![Anurag's GitHub stats](https://github-readme-stats-jade-iota.vercel.app/api?username=yangjunx21&count_private=true&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
-
-🔭 I’m currently working on LLM safety and alignment
+🔭 I’m currently working on LLM safety, Reliability and Alignment.
 
 🌱 Here's my homepage: [https://yangjunx21.github.io/](https://yangjunx21.github.io/)
